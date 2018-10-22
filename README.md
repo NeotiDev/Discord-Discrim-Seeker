@@ -1,8 +1,9 @@
 # Discord Discrim Seeker
 This great selfbot will try changing discriminators until you get one you like.
 
-<div align="center">
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker?ref=badge_shield)
 
+<div align="center">
   <p>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
 --><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
@@ -49,7 +50,6 @@ Note: Userbots (aka user bots, user-bots) which spam, respond to others, react t
 First, open the Discord console by pressing CTRL + SHIFT + I (COMMAND + SHIFT + I on Mac). Then, navigate to the "Network" tab and press F5 to reload your page/client:
 
 ![console](https://discordhelp.net/image/network-refresh.png)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker?ref=badge_shield)
 
 After doing refreshing the page with the network tab open, follow these steps (in order):
 
