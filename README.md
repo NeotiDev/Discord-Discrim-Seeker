@@ -2,6 +2,7 @@
 This great selfbot will try changing discriminators until you get one you like.
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2FDiscord-Discrim-Seeker?ref=badge_shield)
+[![dependencies Status](https://david-dm.org/neotidev/discord-discrim-seeker/status.svg)](https://david-dm.org/neotidev/discord-discrim-seeker)
 
 <div align="center">
   <p>
